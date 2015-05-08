@@ -1,0 +1,10 @@
+CLASS - College of Learning Arts, Skills and Sorcery
+        this is what all humans have to go through from age 10 to 18. After years of trainging and test the school will decided at graduation which
+        job class best fits the student.
+
+Job Classes:
+
+Bard: The lowest job class one could get. Often the humans that get chosen for this class are teased and rarely taken on adventures or added to a party.
+      They use song magic to issue buffs and debuffs that some might say are better off in the hands of white mage.
+
+knight: The most prestigious job class and one that all humans want to be when they graduate CLASS. Knights rely heavely on their attack skill 
